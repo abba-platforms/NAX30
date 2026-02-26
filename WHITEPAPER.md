@@ -161,7 +161,7 @@ Adjustments are implemented through governed registry updates following timelock
 
 Price inputs are submitted via designated oracle operators.
 
-The framework operates under a 2-of-5 quorum requirement.
+The framework operates under a 2-of-3 quorum requirement.
 
 Five oracle sources exist. A minimum of two concurring submissions is required for update validity.
 
