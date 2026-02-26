@@ -300,6 +300,14 @@ No reproduction or redistribution permitted without authorization unless explici
 
 ---
 
+# Intellectual Property Notice
+
+The MIT License applies to smart contract source code only.
+
+All benchmark methodology, governance documentation, and brand materials are proprietary and subject to separate documentation license terms.
+
+---
+
 # 16. Contribution Policy
 
 This repository is governance-controlled.
