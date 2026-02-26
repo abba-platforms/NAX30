@@ -8,6 +8,18 @@ Version tags correspond to formal repository releases.
 ---
 
 ## [1.0.0] – 2026-02-26
+
+### Added
+- DOCUMENTATION_LICENSE.md (Proprietary Benchmark IP framework)
+- README Intellectual Property Notice
+
+### Notes
+No smart contract modifications.
+Documentation governance clarification only.
+
+---
+
+## [1.0.0] – 2026-02-26
 ### Initial Institutional Governance Baseline Release
 
 This is the first formal release of the NAX30 institutional benchmark framework.
