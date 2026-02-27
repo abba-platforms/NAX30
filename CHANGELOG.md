@@ -7,6 +7,24 @@ Version tags correspond to formal repository releases.
 
 ---
 
+## [v1.0.2] – 2026-02-27
+
+### Added
+- SECONDARY_MARKET_DISCLOSURE.md establishing formal secondary trading risk framework.
+- Market manipulation, exchange counterparty, blockchain infrastructure, and no price stabilization disclosures.
+- Tax responsibility and no fiduciary relationship clarification.
+
+### Updated
+- README.md to include reference and backlink to Secondary Market Disclosure.
+
+### Smart Contracts
+- No changes to deployed smart contracts.
+- No token supply changes.
+- No oracle quorum modifications.
+- No governance architecture changes.
+
+---
+
 ## [v1.0.1] – 2026-02-27
 
 ### Added
