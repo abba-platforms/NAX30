@@ -139,7 +139,17 @@ Contracts are verified on BscScan.
 
 ---
 
-# 6. Governance Framework
+# 6. Secondary Market Disclosure
+
+NAX30 tokens may be admitted for trading on secondary market venues, subject to independent venue approval and applicable regulatory considerations. Secondary market trading is market-driven, non-redeemable, and subject to liquidity, volatility, exchange counterparty, and blockchain infrastructure risks. NAX30 does not guarantee price stability, liquidity provision, or alignment with theoretical index value.
+
+Participants should review the full Secondary Market Disclosure before engaging in any secondary trading activity:
+
+See: [SECONDARY_MARKET_DISCLOSURE.md](./SECONDARY_MARKET_DISCLOSURE.md)
+
+---
+
+# 7. Governance Framework
 
 NAX30 governance operates under a dual-layer control system:
 
@@ -163,7 +173,7 @@ See: GOVERNANCE_CHARTER.md
 
 ---
 
-# 7. Oracle Framework
+# 8. Oracle Framework
 
 The NAX30 oracle framework operates under a 2-of-3 quorum:
 
@@ -182,7 +192,7 @@ See: ORACLE_POLICY.md
 
 ---
 
-# 8. Smart Contract Model
+# 9. Smart Contract Model
 
 - Upgradeable proxy architecture
 - Governance-controlled mint authority
@@ -200,7 +210,7 @@ See: CHANGE_CONTROL_POLICY.md
 
 ---
 
-# 9. OTC Allocation Framework
+# 10. OTC Allocation Framework
 
 NAX30 tokens may be distributed through structured OTC allocation processes subject to:
 
@@ -216,7 +226,7 @@ Future exchange listing is subject to independent approval and market conditions
 
 ---
 
-# 10. Risk Considerations
+# 11. Risk Considerations
 
 Risks include:
 
@@ -233,7 +243,7 @@ See: RISK_DISCLOSURE.md
 
 ---
 
-# 11. Compliance & Regulatory Positioning
+# 12. Compliance & Regulatory Positioning
 
 NAX30 is structured as a digital benchmark exposure instrument.
 
@@ -252,7 +262,7 @@ See: REGULATORY_MEMORANDUM.md
 
 ---
 
-# 12. Operational Independence
+# 13. Operational Independence
 
 NAX30 is administered independently of any centralized exchange.
 
@@ -262,7 +272,7 @@ There is no affiliation with listed constituents beyond benchmark referencing.
 
 ---
 
-# 13. Transparency & Version Control
+# 14. Transparency & Version Control
 
 All structural changes are:
 
@@ -278,7 +288,7 @@ See: CHANGE_CONTROL_POLICY.md
 
 ---
 
-# 14. Audit Status
+# 15. Audit Status
 
 Smart contracts have undergone internal production-grade review aligned with OpenZeppelin enterprise standards.
 
@@ -290,7 +300,7 @@ EXTERNAL_AUDIT_PLAN.md
 
 ---
 
-# 15. License
+# 16. License
 
 Unless otherwise specified, repository documentation is proprietary.
 
@@ -308,7 +318,7 @@ All benchmark methodology, governance documentation, and brand materials are pro
 
 ---
 
-# 16. Contribution Policy
+# 17. Contribution Policy
 
 This repository is governance-controlled.
 
@@ -318,7 +328,7 @@ All changes must follow CHANGE_CONTROL_POLICY.md.
 
 ---
 
-# 17. Security Contact
+# 18. Security Contact
 
 Security disclosures:
 See SECURITY_CONTACT.md
