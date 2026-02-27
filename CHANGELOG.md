@@ -7,6 +7,28 @@ Version tags correspond to formal repository releases.
 
 ---
 
+## [v1.0.1] – 2026-02-27
+
+### Added
+- VERSIONING_POLICY.md establishing formal semantic versioning framework (MAJOR.MINOR.PATCH).
+- Index continuity and forward-application control provisions.
+- Backward compatibility and deprecation framework.
+- Governance reference requirements (proposal ID, timelock ID, transaction hash).
+- Smart contract and dependency version lock disclosure standards.
+- Oracle schema versioning and quorum classification rules.
+- Emergency versioning protocol.
+- Multi-document synchronization requirement.
+
+### Documentation
+- Strengthened institutional-grade governance and release discipline across repository.
+
+### Smart Contracts
+- No changes to deployed smart contracts.
+- No changes to token supply.
+- No changes to oracle quorum.
+
+---
+
 ## [1.0.0] – 2026-02-27
 
 ### Added
