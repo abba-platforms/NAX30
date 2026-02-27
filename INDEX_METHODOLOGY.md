@@ -69,6 +69,27 @@ Individual constituent weight caps may be applied to prevent excessive concentra
 
 ---
 
+### 5.1 Base Weight Allocation (Initial Configuration)
+
+At index inception, NAX30 applies an equal-weight framework adjusted for integer basis point normalization.
+
+Since 10,000 basis points divided by 30 constituents equals 333.333… bps, fractional basis points are not used. Accordingly, weights are distributed as follows:
+
+- 10 constituents assigned 334 basis points each
+- 20 constituents assigned 333 basis points each
+
+Calculation:
+
+10 × 334 = 3,340  
+20 × 333 = 6,660  
+Total = 10,000 basis points  
+
+This ensures exact normalization to 10,000 bps while preserving deterministic integer-based weight storage within the on-chain registry contract.
+
+Assignment of which specific constituents receive 334 bps versus 333 bps is recorded in the on-chain Registry contract and is subject to governance-controlled updates through the Timelock mechanism.
+
+---
+
 ## 6. Index Calculation Formula
 
 The index level at time t is calculated as:
