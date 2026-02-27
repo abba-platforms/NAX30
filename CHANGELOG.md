@@ -7,6 +7,17 @@ Version tags correspond to formal repository releases.
 
 ---
 
+## [1.0.0] – 2026-02-27
+
+### Added
+- Section 5.1 added to INDEX_METHODOLOGY.md documenting initial base weight allocation:
+  - 10 constituents assigned 334 basis points
+  - 20 constituents assigned 333 basis points
+  - Total normalized weight: 10,000 basis points
+  - Clarifies integer-based equal-weight normalization in on-chain registry
+ 
+---
+
 ## [1.0.0] – 2026-02-26
 
 ### Added
