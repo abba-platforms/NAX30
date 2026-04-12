@@ -149,6 +149,22 @@ See: [SECONDARY_MARKET_DISCLOSURE.md](./SECONDARY_MARKET_DISCLOSURE.md)
 
 ---
 
+## NAX30 ETF    
+*(Proposed)*
+
+The NAX30 ETF is a proposed exchange-traded fund designed to track the NAX30 Index, currently under development and subject to regulatory approval and exchange listing.
+
+```
+    NAX30 Index (Benchmark Layer)
+               |
+    --------------------------
+    |                        |
+    NAX30 ETF (Regulated)    NAX30 Token (Digital Market Instrument)
+       NSX (Proposed)           CEX / Digital Markets
+```
+
+Further details: [NAX30_ETF.md](https://github.com/abba-platforms/NAX30/blob/main/NAX30_EFT.md)
+
 # 7. Governance Framework
 
 NAX30 governance operates under a dual-layer control system:
