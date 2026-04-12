@@ -7,6 +7,17 @@ Version tags correspond to formal repository releases.
 
 ---
 
+## [v1.0.2] – 2026-04-12
+
+### Added
+- NAX30 ETF (Proposed) summary section to README, including a concise overview of the ETF under development and a direct reference to the full institutional whitepaper (`/docs/NAX30_ETF.md`).
+- ASCII diagram illustrating the structural relationship between the NAX30 Index (benchmark layer), the proposed NAX30 ETF (regulated instrument), and any NAX30 token (separate digital market instrument).
+
+### Updated
+- Repository documentation to reflect formal positioning of the NAX30 ETF as a proposed regulated financial product, clearly distinct from the benchmark and any tokenized market instruments.
+
+---
+
 ## [v1.0.2] – 2026-02-27
 
 ### Added
