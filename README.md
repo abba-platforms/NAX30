@@ -139,6 +139,16 @@ Contracts are verified on BscScan.
 
 ---
 
+## NAX30 Price and Index Framework
+### Institutional Reference Document
+
+The NAX30 Price and Index Framework defines the structural and economic separation between the NAX30 Index and the NAX30 Token. It establishes that the Index functions as a rules-based benchmark reference, while the Token operates as a market-traded digital instrument with a free-floating price determined by supply and demand.
+
+There is no asset backing, redemption mechanism, or ownership linkage between the Token and the underlying securities referenced by the Index. The Index Value and Token Market Price are structurally independent.
+
+For an overview of the NAX30 ecosystem, refer to the main documentation:
+→ [NAX30_PRICE_AND_INDEX_FRAMEWORK.md](./NAX30_PRICE_AND_INDEX_FRAMEWORK.md)
+
 # 6. Secondary Market Disclosure
 
 NAX30 tokens may be admitted for trading on secondary market venues, subject to independent venue approval and applicable regulatory considerations. Secondary market trading is market-driven, non-redeemable, and subject to liquidity, volatility, exchange counterparty, and blockchain infrastructure risks. NAX30 does not guarantee price stability, liquidity provision, or alignment with theoretical index value.
